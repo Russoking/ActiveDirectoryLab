@@ -16,6 +16,7 @@ Disk Sanitization Steps
 
 Step 3 - Install and Configure Active Directory Domain Services (AD DS): On the VM, opened the Server Manager and added the Active Directory Domain Services role. Then, using the AD DS Configuration Wizard, promoted the server to domain controller. I specified a domain name and followed the prompts to complete the configuration. After the server rebooted, I verified that the domain controller was functioning correctly by checking the server roles.
 Disk Sanitization Steps Disk Sanitization Steps
+<img width="1910" height="1025" alt="image" src="https://github.com/user-attachments/assets/d8651713-cebb-4d80-9141-47e257a0b57b" />
 
 Last Step: - Add Users to Active Directory with Powershell: Opened Powershell as an administrator on the domain controller. Then, created user accounts by executing Powershell scripts in Active Directory. The scripts included commands to define user properties.
 Disk Sanitization Steps
