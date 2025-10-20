@@ -9,6 +9,7 @@ This project gave me practical, hands-on experience with deploying and managing 
 # Project walk-through:
 Step 1 - Download and Install Oracle VirtualBox: I started by downloading and installing Oracle VirtualBox on my computer from the official website. Once installed, created a VM then chose "Windows Server" as the operating system and allocated appropriate resources (CPU, RAM, and disk space) for the server.
 AD Steps
+<img width="1594" height="848" alt="image" src="https://github.com/user-attachments/assets/5476ed37-dafb-454b-a260-6a839e0e2c77" />
 
 Step 2 - Install Windows Server on the VM: Downloaded the Windows Server ISO file from the official Microsoft website. Next, started the VM and mounted the Windows Server ISO file. After installation, I configured the server settings which included setting a strong password for the admin account and adjusted network settings. I also added in guest additions.
 Disk Sanitization Steps
