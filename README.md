@@ -10,7 +10,7 @@ This project gave me practical, hands-on experience with deploying and managing 
 Step 1 - Download and Install Oracle VirtualBox: I started by downloading and installing Oracle VirtualBox on my computer from the official website. Once installed, created a VM then chose "Windows Server" as the operating system and allocated appropriate resources (CPU, RAM, and disk space) for the server.
 AD Steps
 
-Step 2 - Install Windows Server on the VM: Downloaded the Windows Server ISO file from the official Microsoft webesite. Next, started the VM and mounted the Windows Server ISO file. After installation, I configured the server settings which included setting a strong password for the admin account and adjusted network settings. I also added in guest additions.
+Step 2 - Install Windows Server on the VM: Downloaded the Windows Server ISO file from the official Microsoft website. Next, started the VM and mounted the Windows Server ISO file. After installation, I configured the server settings which included setting a strong password for the admin account and adjusted network settings. I also added in guest additions.
 Disk Sanitization Steps
 
 Step 3 - Install and Configure Active Directory Domain Services (AD DS): On the VM, opened the Server Manager and added the Active Directory Domain Services role. Then, using the AD DS Configuration Wizard, promoted the server to domain controller. I specified a domain name and followed the prompts to complete the configuration. After the server rebooted, I verified that the domain controller was functioning correctly by checking the server roles.
