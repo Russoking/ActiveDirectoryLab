@@ -1,4 +1,3 @@
-# ActiveDirectoryLab
 # Active Directory Home Lab
 # Description
 Built a home lab to simulate an enterprise Active Directory environment using virtual machines. Deployed a Windows Server VM as a Domain Controller, installed and configured Active Directory Domain Services (AD DS), and used PowerShell to automate user account creation and management. This project strengthened my skills in identity and access management, automation, and Windows Server administration.
