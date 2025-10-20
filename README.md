@@ -5,9 +5,9 @@ Built a home lab to simulate an enterprise Active Directory environment using vi
 # Tools Used
 ✅ Oracle VirtualBox ✅ PowerShell ✅ VMware ✅ Windows Server & Windows 10
 
-Takeaways
+# Takeaways
 This project gave me practical, hands-on experience with deploying and managing an Active Directory environment. I strengthened my skills in Windows Server setup, domain configuration, and scripting with PowerShell—foundational knowledge for enterprise IT administration and cybersecurity roles.
-Project walk-through:
+# Project walk-through:
 Step 1 - Download and Install Oracle VirtualBox: I started by downloading and installing Oracle VirtualBox on my computer from the official website. Once installed, created a VM then chose "Windows Server" as the operating system and allocated appropriate resources (CPU, RAM, and disk space) for the server.
 AD Steps
 
@@ -21,5 +21,5 @@ Last Step: - Add Users to Active Directory with Powershell: Opened Powershell as
 Disk Sanitization Steps
 
 
-Results:
+# Results:
 Successfully built a home lab running Active Directory on a Windows Server VM using Oracle VirtualBox. I installed and configured AD DS, promoted the server to a domain controller, and used PowerShell to automate user account creation and management.
