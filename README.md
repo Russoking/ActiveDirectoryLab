@@ -18,6 +18,7 @@ Step 3 - Install and Configure Active Directory Domain Services (AD DS): On the 
 Disk Sanitization Steps Disk Sanitization Steps
 <img width="1910" height="1025" alt="image" src="https://github.com/user-attachments/assets/d8651713-cebb-4d80-9141-47e257a0b57b" />
 <img width="1916" height="1029" alt="image" src="https://github.com/user-attachments/assets/5e01a9ee-6bbb-4634-b2d5-723d6db70ab2" />
+<img width="823" height="639" alt="image" src="https://github.com/user-attachments/assets/a61a46ae-266a-46f8-b47c-dddaa99b7c26" />
 
 Last Step: - Add Users to Active Directory with Powershell: Opened Powershell as an administrator on the domain controller. Then, created user accounts by executing Powershell scripts in Active Directory. The scripts included commands to define user properties.
 Disk Sanitization Steps
